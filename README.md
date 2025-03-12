@@ -20,8 +20,3 @@ Starting the x11vnc Service: Finally, the script starts the x11vnc service, allo
 The Outcome:
 By running this shell script in the terminal, we successfully restored VNC server functionality on our upgraded Ubuntu 24.04 system. This solution not only resolved our immediate issue but also serves as a reusable tool for anyone facing similar challenges in the future.
 
-Key Takeaways:
-System Upgrades Can Lead to Unexpected Issues: Always be prepared for potential disruptions when upgrading critical software or operating systems.
-Automation Through Scripting: Creating scripts to automate installation and configuration processes can save time and reduce errors.
-Community Support: Sharing solutions within the tech community can empower others to overcome similar obstacles.
-If you’re experiencing issues with VNC or remote access after an upgrade, or if you’re interested in learning more about scripting solutions, feel free to connect! Let’s collaborate and share our knowledge to enhance our tech journeys.
