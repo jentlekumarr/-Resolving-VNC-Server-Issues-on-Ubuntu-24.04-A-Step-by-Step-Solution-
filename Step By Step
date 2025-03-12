@@ -4,3 +4,4 @@ STEP 2 (run the script)
 ==> sudo ./vnc.sh
 Step 3 (After system reboot again run the script)
 ==> sudo ./vnc.sh
+===================DONE==========================
