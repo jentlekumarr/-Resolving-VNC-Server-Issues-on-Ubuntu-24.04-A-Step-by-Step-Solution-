@@ -1,4 +1,6 @@
-🚀 Overcoming Challenges with VNC Server Setup on Ubuntu 24.04 🚀
-After upgrading from Ubuntu 22 to 24.04, I encountered significant challenges with the VNC server setup, which had previously been running smoothly. The upgrade disrupted my remote access capabilities, leaving me in a bind.
+🚀 Resolving VNC Server Issues on Ubuntu 24.04: A Step-by-Step Solution 🚀
 
-To tackle this issue, We developed a shell script to automate the setup of x11vnc, ensuring a seamless configuration process for remote access. This script not only resolved the immediate problem but also streamlined future installations, making it easier for others facing similar challenges.
+After upgrading from Ubuntu 22 to 24.04, we encountered significant challenges with our VNC server setup. The upgrade caused the VNC server to stop functioning, disrupting our remote access capabilities and workflow. Determined to find a solution, we developed a shell script to automate the setup of x11vnc, which has proven to be a game-changer. This project was accomplished in collaboration with Dhruv Singh.
+
+The Challenge:
+Post-upgrade, attempts to configure the VNC server resulted in various errors, leaving us unable to access our system remotely. This was particularly frustrating, as remote access is crucial for our productivity. We needed a reliable solution to restore functionality quickly.
