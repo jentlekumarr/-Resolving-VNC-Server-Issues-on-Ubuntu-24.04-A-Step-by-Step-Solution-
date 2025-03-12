@@ -20,11 +20,11 @@ Starting the x11vnc Service: Finally, the script starts the x11vnc service, allo
 The Outcome:
 By running this shell script in the terminal, we successfully restored VNC server functionality on our upgraded Ubuntu 24.04 system. This solution not only resolved our immediate issue but also serves as a reusable tool for anyone facing similar challenges in the future.
 ================================================================================================================================================================================================================================================================================
-STEP 1 (Making vnc.sh script executable)
-==> sudo chmod +x /vnc.sh/
+# STEP 1 (Making vnc.sh script executable)
+# ==> sudo chmod +x /vnc.sh/
 
-STEP 2 (run the script)
-==> sudo ./vnc.sh
-Step 3 (After system reboot again run the script)
-  ==> sudo ./vnc.sh
+# STEP 2 (run the script)
+# ==> sudo ./vnc.sh
+# Step 3 (After system reboot again run the script)
+# sudo ./vnc.sh
 =================================================================================================================================================================================================================================================================================
